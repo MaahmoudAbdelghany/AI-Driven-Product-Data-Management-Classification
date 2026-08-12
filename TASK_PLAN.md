@@ -4,7 +4,7 @@
 
 - [x] **Step 1:** Set up repository structure, pyproject.toml, .gitignore ✅
 - [x] **Step 2:** Generate synthetic demo dataset (`sample_products_raw.csv`)
-- [ ] **Step 3:** Define taxonomy tree (`taxonomy.json`)
+- [x] **Step 3:** Define taxonomy tree (`taxonomy.json`)
 - [ ] **Step 4:** Build `schema.py` — Pydantic models
 - [ ] **Step 5:** Build `config.py` — Pipeline configuration
 - [ ] **Step 6:** Build `utils.py` — Shared utilities

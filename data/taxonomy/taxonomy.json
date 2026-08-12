@@ -1,0 +1,145 @@
+{
+  "categories": [
+    {
+      "name": "Clothing",
+      "name_ar": "ملابس",
+      "subcategories": [
+        {
+          "name": "Men's Clothing",
+          "name_ar": "ملابس رجالية",
+          "subcategories": [
+            { "name": "T-Shirts & Polos", "name_ar": "قمصان وتيشرتات" },
+            { "name": "Shirts", "name_ar": "قمصان رسمية وكاجوال" },
+            { "name": "Jeans & Pants", "name_ar": "جينز وبنطلونات" },
+            { "name": "Jackets & Coats", "name_ar": "جاكيتات ومعاطف" },
+            { "name": "Hoodies & Sweatshirts", "name_ar": "هوديز وسويت شيرت" },
+            { "name": "Shorts", "name_ar": "شورتات" },
+            { "name": "Suits & Blazers", "name_ar": "بدل وبلازرات" },
+            { "name": "Sleepwear & Loungewear", "name_ar": "ملابس نوم وملابس منزلية" },
+            { "name": "Activewear", "name_ar": "ملابس رياضية" },
+            { "name": "Underwear & Socks", "name_ar": "ملابس داخلية وجوارب" }
+          ]
+        },
+        {
+          "name": "Women's Clothing",
+          "name_ar": "ملابس نسائية",
+          "subcategories": [
+            { "name": "Dresses & Jump-suits", "name_ar": "فساتين وجمبسوت" },
+            { "name": "Tops & Blouses", "name_ar": "بلوزات وتايرات" },
+            { "name": "T-Shirts", "name_ar": "تيشرتات" },
+            { "name": "Skirts", "name_ar": "تنانير" },
+            { "name": "Jeans & Trousers", "name_ar": "جينز وبنطلونات" },
+            { "name": "Jackets & Outerwear", "name_ar": "جاكيتات وملابس خارجية" },
+            { "name": "Hoodies & Cardigans", "name_ar": "هوديز وكارديجان" },
+            { "name": "Abayas & Jalabiyas", "name_ar": "عبايات وجلابيات" },
+            { "name": "Lingerie & Sleepwear", "name_ar": "لانجري وملابس نوم" },
+            { "name": "Activewear", "name_ar": "ملابس رياضية" }
+          ]
+        },
+        {
+          "name": "Kids' Clothing",
+          "name_ar": "ملابس أطفال",
+          "subcategories": [
+            { "name": "Boys T-Shirts & Tops", "name_ar": "تيشرتات وبلوزات للأولاد" },
+            { "name": "Boys Pants & Shorts", "name_ar": "بنطلونات وشورتات للأولاد" },
+            { "name": "Girls Dresses", "name_ar": "فساتين للبنات" },
+            { "name": "Girls Tops & Skirts", "name_ar": "بلوزات وتنانير للبنات" },
+            { "name": "Baby Clothing", "name_ar": "ملابس رضع" },
+            { "name": "Kids Sleepwear", "name_ar": "ملابس نوم للأطفال" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electronics",
+      "name_ar": "إلكترونيات",
+      "subcategories": [
+        {
+          "name": "Smartphones & Mobile Devices",
+          "name_ar": "هواتف ذكية وأجهزة محمولة",
+          "subcategories": [
+            { "name": "Smartphones", "name_ar": "هواتف ذكية" },
+            { "name": "Tablets", "name_ar": "أجهزة لوحية" },
+            { "name": "Cases & Covers", "name_ar": "أغطية وحافظات" },
+            { "name": "Screen Protectors", "name_ar": "واقيات شاشة" },
+            { "name": "Chargers & Cables", "name_ar": "شواحن وكابلات" },
+            { "name": "Power Banks", "name_ar": "بنوك طاقة" }
+          ]
+        },
+        {
+          "name": "Computers & Laptops",
+          "name_ar": "كمبيوتر ولابتوب",
+          "subcategories": [
+            { "name": "Laptops & Notebooks", "name_ar": "أجهزة لابتوب" },
+            { "name": "Desktop PCs", "name_ar": "أجهزة كمبيوتر مكتبية" },
+            { "name": "Monitors", "name_ar": "شاشات" },
+            { "name": "Keyboards & Mice", "name_ar": "لوحات مفاتيح وماوس" },
+            { "name": "External Storage", "name_ar": "أجهزة تخزين خارجية" },
+            { "name": "Computer Components", "name_ar": "مكونات الكمبيوتر" }
+          ]
+        },
+        {
+          "name": "Audio & Headphones",
+          "name_ar": "صوتيات وسماعات",
+          "subcategories": [
+            { "name": "Wireless Earbuds", "name_ar": "سماعات أذن لاسلكية" },
+            { "name": "Over-Ear Headphones", "name_ar": "سماعات رأس" },
+            { "name": "Bluetooth Speakers", "name_ar": "مكبرات صوت بليوتوث" },
+            { "name": "Soundbars & Home Theater", "name_ar": "مسرح منزلي وساوند بار" },
+            { "name": "Microphones", "name_ar": "ميكروفونات" }
+          ]
+        },
+        {
+          "name": "Cameras & Wearables",
+          "name_ar": "كاميرات وأجهزة قابلة للارتداء",
+          "subcategories": [
+            { "name": "Digital Cameras", "name_ar": "كاميرات رقمية" },
+            { "name": "Smartwatches & Fitness Bands", "name_ar": "ساعات ذكية وأسورة رياضية" },
+            { "name": "Action Cameras & Drones", "name_ar": "كاميرات أكشن وطائرات درون" },
+            { "name": "Camera Accessories", "name_ar": "ملحقات الكاميرات" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Accessories",
+      "name_ar": "إكسسوارات ومستلزمات",
+      "subcategories": [
+        {
+          "name": "Watches & Jewelry",
+          "name_ar": "ساعات ومجوهرات",
+          "subcategories": [
+            { "name": "Men's Watches", "name_ar": "ساعات رجالية" },
+            { "name": "Women's Watches", "name_ar": "ساعات نسائية" },
+            { "name": "Smart Watches", "name_ar": "ساعات ذكية" },
+            { "name": "Necklaces & Pendants", "name_ar": "قلادات وسلاسل" },
+            { "name": "Rings & Bracelets", "name_ar": "خواتم وأسورة" },
+            { "name": "Earrings", "name_ar": "أقراط" }
+          ]
+        },
+        {
+          "name": "Bags & Wallets",
+          "name_ar": "حقائب ومحافظ",
+          "subcategories": [
+            { "name": "Handbags & Totes", "name_ar": "حقائب يد" },
+            { "name": "Backpacks", "name_ar": "حقائب ظهر" },
+            { "name": "Wallets & Cardholders", "name_ar": "محافظ وحاملات بطاقات" },
+            { "name": "Luggage & Travel Bags", "name_ar": "حقائب سفر ومأمتعة" },
+            { "name": "Laptop Bags & Sleeves", "name_ar": "حقائب وأغطية لابتوب" }
+          ]
+        },
+        {
+          "name": "Eyewear & Accessories",
+          "name_ar": "نظارات ومستلزمات شخصية",
+          "subcategories": [
+            { "name": "Sunglasses", "name_ar": "نظارات شمسية" },
+            { "name": "Eyeglasses Frames", "name_ar": "إطارات نظارات طبية" },
+            { "name": "Belts", "name_ar": "أحزمة" },
+            { "name": "Hats & Caps", "name_ar": "قبعات" },
+            { "name": "Scarves & Gloves", "name_ar": "وشاحات وقفازات" }
+          ]
+        }
+      ]
+    }
+  ]
+}
