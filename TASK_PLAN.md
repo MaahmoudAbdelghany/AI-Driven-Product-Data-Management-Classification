@@ -3,7 +3,7 @@
 ## Sprint 1: Core Pipeline — Local Development
 
 - [x] **Step 1:** Set up repository structure, pyproject.toml, .gitignore ✅
-- [ ] **Step 2:** Generate synthetic demo dataset (`sample_products_raw.csv`)
+- [x] **Step 2:** Generate synthetic demo dataset (`sample_products_raw.csv`)
 - [ ] **Step 3:** Define taxonomy tree (`taxonomy.json`)
 - [ ] **Step 4:** Build `schema.py` — Pydantic models
 - [ ] **Step 5:** Build `config.py` — Pipeline configuration
